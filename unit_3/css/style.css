@@ -1,7 +1,9 @@
 h1{text-align: top left;
 	font-family: Helvetica;
 	color: #000;
-font-weight: bold;}
+font-weight: bold;
+padding-top: 300px;
+padding-left: 300px;}
 
 	body {text-align: top left;
 color: #000;
@@ -10,4 +12,6 @@ background-size: cover;}
 
 p{text-align: left;
 font-family: Helvetica;
-font-size: 18px;}
+font-size: 18px;
+padding-top: 300px;
+padding-left: 300px;}
