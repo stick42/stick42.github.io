@@ -6,12 +6,16 @@ padding-top: 300px;
 padding-left: 300px;}
 
 	body {text-align: top left;
-color: #000;
-background: url("images/pyramids.jpg");
-background-size: cover;}
+color: #000;}
 
 p{text-align: left;
 font-family: Helvetica;
 font-size: 18px;
 padding-top: 300px;
 padding-left: 300px;}
+
+html {background: url(images/pyramids.jpg)no-repeat center center fixed;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover}
