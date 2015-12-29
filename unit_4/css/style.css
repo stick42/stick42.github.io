@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Old+Standard+TT);
 
 body {
+  font-family: 'Old Standard TT', serif;
   background: 
     linear-gradient(
       rgba(0, 0, 0, 0.5),
@@ -9,7 +10,6 @@ body {
     ),
     url("pyramids.jpg");
   background-size: cover;
-  font-family: 'Old Standard TT', serif;
 }
 
 header {
