@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:700);
+@import url(https://fonts.googleapis.com/css?family=Old+Standard+TT);
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div{background-color: #FFE2B8;}
+
+nav {
+  background-color: #E8C66A;}
+
+aside {background-color: #FFC675;}
+}
+
+article {background-color: E89C6C;}
+
+h1 {
+  font-family: 'Oswald', Helvetica, sans-serif;
+  margin: 0;
+  font-size: 3rem;
+  white-space: nowrap;
+}
+
+body {
+  font-family: 'Old Standard TT', serif;
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("pyramids.jpg");
+  background-size: cover;
+}
+
+p {
+  margin: 30px;
+  font-size: 1.5rem;
+}
+
+footer{ background-color: #FF957E;}
